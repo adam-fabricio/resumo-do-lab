@@ -46,5 +46,20 @@ Em nuvem privada vc tem o custo baseado na compra de hardware, armazenamento dos
 * Um dos principais benefícios da computação em nuvem são as opções de capacidade de gerenciamento. por codigo ou manualmente.
 * gerencamento de nuvem diz respeito a gerenciar seus recursos de nuvem
 
+# Tipos de serviço de nuvem
+
+## IaaS Infraestrutura como Serviço
+* Servidores, firewall, armazenamento, planta física e edifícil do datacenter
+
+## PaaS Plataforma como serviço
+* Sistema operacionais
+* Ferramenta para desenvolvedores
+* análise de negócio de gerenciamento de datacenter
 
 
+## SaaS Software como serviço
+* Aplicativos
+* APP hospedados
+
+# Modelo de responsabilidade Compartilhado.
+* 
